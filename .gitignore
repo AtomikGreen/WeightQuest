@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.import/
+.mono/
+.cache/
+.tmp/
+project.godot
+export_presets.cfg
